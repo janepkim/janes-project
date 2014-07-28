@@ -1,0 +1,4 @@
+megan
+jane
+temp
+20140728 for git tutorial
